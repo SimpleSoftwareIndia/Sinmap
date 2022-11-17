@@ -34,7 +34,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## :octocat: Credits
 
-- Thanks to allah and Screetsec [ Simple Software Cyber Network ] <Me>  
+- Thanks to Simple Softwaree's Cyber Network Team and Offensive Security [ Simple Software Inc ] <Me>  
 - Dracos Linux from Scratch Indonesia ( Awesome Penetration os ), you can see in http://os.simplesoftware.space/ 
 - Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
 - http://www.kali.org/"   
